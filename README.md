@@ -6,8 +6,8 @@ Your first task is to develop a program with a running loop. If the user types i
 
 We will continue to build on top of this application throughout the week. 
 
-Example output:
-'''
+#Example output:
+```
 Good day. What is your problem? Enter your response here or Q to quit: my teacher hates me
 my teacher hates me
 Enter your response here or Q to quit: i dont know what's wrong
@@ -15,4 +15,4 @@ i dont know what's wrong
 Enter your response here or Q to quit: i am feeling great
 i am feeling great
 >>> END
-'''
+```
